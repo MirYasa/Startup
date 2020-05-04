@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-image: url(img/headerBG.jpg);
+    background-image: url(/img/headerBG.jpg);
     height: 765px;
 
 }
