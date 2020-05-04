@@ -192,22 +192,22 @@ body {
 }
 
 .slide-1 {
-    background-image: url(/img/sliider/Layer-12.png);
+    background-image: url(../img/sliider/Layer-12.png);
     background-position: -8px 0;
 }
 
 .slide-2 {
-    background-image: url(/img/sliider/Layer-13.png);
+    background-image: url(../img/sliider/Layer-13.png);
     background-position: -15px 0;
 }
 
 .slide-3 {
-    background-image: url(/img/sliider/Layer-15.png);
+    background-image: url(../img/sliider/Layer-15.png);
     background-position: -8px 0;
 }
 
 .slide-4 {
-    background-image: url(/img/sliider/Layer-16.png);
+    background-image: url(../img/sliider/Layer-16.png);
     background-position: -8px 0;
 }
 
@@ -315,7 +315,7 @@ body {
 .work-hover-content {
     width: 360px;
     height: 320px;
-    background-image: url(/img/Works/Rectangle-9.png);
+    background-image: url(../img/Works/Rectangle-9.png);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -361,51 +361,51 @@ body {
 }
 
 .w1 {
-    background-image: url(/img/Works/women.jpg);
+    background-image: url(../img/Works/women.jpg);
 }
 
 .w2 {
-    background-image: url(/img/Works/biird.jpg);
+    background-image: url(../img/Works/biird.jpg);
     background-position: -40px 0;
 }
 
 .w3 {
-    background-image: url(/img/Works/Layer-20.jpg);
+    background-image: url(../img/Works/Layer-20.jpg);
     background-position: -100px 0;
 }
 
 .w4 {
-    background-image: url(/img/Works/Layer-21.jpg);
+    background-image: url(../img/Works/Layer-21.jpg);
     background-position: -60px 0;
 }
 
 .w5 {
-    background-image: url(/img/Works/Layer-22.jpg);
+    background-image: url(../img/Works/Layer-22.jpg);
     background-position: -10px -30px;
 }
 
 .w6 {
-    background-image: url(/img/Works/Layer-23.jpg);
+    background-image: url(../img/Works/Layer-23.jpg);
     background-position: -108px -13px;
 }
 
 .w7 {
-    background-image: url(/img/Works/Layer-25.jpg);
+    background-image: url(../img/Works/Layer-25.jpg);
 }
 
 .w8 {
-    background-image: url(/img/Works/Layer-26.jpg);
+    background-image: url(../img/Works/Layer-26.jpg);
     background-position: -30px -24px;
 }
 
 .w9 {
-    background-image: url(/img/Works/Layer-24.jpg);
+    background-image: url(../img/Works/Layer-24.jpg);
     background-position: -66px 0;
 }
 
 .Get-In-Touch {
     height: 370px;
-    background-image: url(/img/Rectangle-14.jpg);
+    background-image: url(../img/Rectangle-14.jpg);
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: normal;
@@ -524,12 +524,12 @@ body {
 }
 
 .PI1 {
-    background-image: url(/img/Layer-28.jpg);
+    background-image: url(../img/Layer-28.jpg);
     background-position: -20px -30px;
 }
 
 .PI2 {
-    background-image: url(/img/Works/Layer-26.jpg);
+    background-image: url(../img/Works/Layer-26.jpg);
 }
 
 .Sponsors {
@@ -555,32 +555,32 @@ body {
 }
 
 .SC1 {
-    background-image: url(/img/Sponsors/Layer-30.png);
+    background-image: url(../img/Sponsors/Layer-30.png);
     width: 141px;
     height: 27px;
 
 }
 
 .SC2 {
-    background-image: url(/img/Sponsors/Layer-31.png);
+    background-image: url(../img/Sponsors/Layer-31.png);
     width: 121px;
     height: 49px;
 }
 
 .SC3 {
-    background-image: url(/img/Sponsors/Layer-33.png);
+    background-image: url(../img/Sponsors/Layer-33.png);
     width: 142px;
     height: 17px;
 }
 
 .SC4 {
-    background-image: url(/img/Sponsors/Layer-32.png);
+    background-image: url(../img/Sponsors/Layer-32.png);
     width: 109px;
     height: 21px;
 }
 
 .SC5 {
-    background-image: url(/img/Sponsors/Layer-34.png);
+    background-image: url(../img/Sponsors/Layer-34.png);
     width: 123px;
     height: 46px;
 }
@@ -700,17 +700,17 @@ body {
     padding-right: 5px;
 }
 .fc1{
-    background-image: url(/img/form/fa-map-marker.png);
+    background-image: url(../img/form/fa-map-marker.png);
     width: 12px;
  height: 17px;
 }
 .fc2{
-    background-image: url(/img/form/fa-mobile-phone.png);
+    background-image: url(../img/form/fa-mobile-phone.png);
     width: 12px;
     height: 20px;
 }
 .fc3{
-    background-image: url(/img/form/fa-envelope-o.png);
+    background-image: url(../img/form/fa-envelope-o.png);
     width: 15px;
     height: 11px;
 }
